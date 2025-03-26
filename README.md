@@ -29,7 +29,7 @@ This Power BI project analyzes sales performance and product trends using intera
 
 ## 🎥 Dashboard Demo  
 Here is a quick demo of how the dashboard works:  
-![Dashboard Demo](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshots/demo.gif)
+![Dashboard Demo](https://github.com/mariyamjabir/Sales-Performance-Analysis---PowerBI/blob/main/Demo_Sales%20Analysis.mp4)
 
 ---
 
