@@ -14,7 +14,7 @@ This Power BI project analyzes sales performance and product trends using intera
 - `screenshots/` – Images of the dashboards  
 
 ## 📸 Dashboard Screenshots  
-![Sales Dashboard]((https://github.com/mariyamjabir/Sales-Performance-Analysis---PowerBI/blob/main/Sales%20Dashboard.png))  
+![Sales Dashboard](https://github.com/mariyamjabir/Sales-Performance-Analysis---PowerBI/blob/main/Sales%20Dashboard.png)
 ![Product Dashboard](link-to-your-image)  
 
 ## 🚀 Usage Instructions  
